@@ -17,11 +17,12 @@ An online platform designed to provide structured, easy-to-understand study reso
 
 ## 🖥️ Tech Stack
 
-- HTML5 / CSS3 / JavaScript  
-- React.js (if used)  
-- Tailwind CSS / Bootstrap (if used)  
-- Node.js / Express (if backend exists)  
-- MongoDB (if database used)
+- React.js / ViteJs 
+- Tailwind CSS 
+- Node.js / Express 
+- Supabase (Database)
+- PostgreSql 
+- Google Auth
 
 ---
 
@@ -58,11 +59,6 @@ online-study-materials/
 
 ---
 
-## 📸 UI Preview
-
-(Add screenshots or Figma design images here)
-
----
 
 ## ⚙️ Installation
 
